@@ -1,0 +1,30 @@
+D:\TSP\BranchAndBound\TravellingSalesMan\bin\Debug\TravellingSalesMan.exe.config
+D:\TSP\BranchAndBound\TravellingSalesMan\bin\Debug\TravellingSalesMan.exe
+D:\TSP\BranchAndBound\TravellingSalesMan\bin\Debug\TravellingSalesMan.pdb
+D:\TSP\BranchAndBound\TravellingSalesMan\obj\Debug\TravellingSalesMan.csprojResolveAssemblyReference.cache
+D:\TSP\BranchAndBound\TravellingSalesMan\obj\Debug\TravellingSalesMan.Travelling_Sales_Man.resources
+D:\TSP\BranchAndBound\TravellingSalesMan\obj\Debug\TravellingSalesMan.Properties.Resources.resources
+D:\TSP\BranchAndBound\TravellingSalesMan\obj\Debug\TravellingSalesMan.csproj.GenerateResource.Cache
+D:\TSP\BranchAndBound\TravellingSalesMan\obj\Debug\TravellingSalesMan.csproj.CoreCompileInputs.cache
+D:\TSP\BranchAndBound\TravellingSalesMan\obj\Debug\TravellingSalesMan.exe
+D:\TSP\BranchAndBound\TravellingSalesMan\obj\Debug\TravellingSalesMan.pdb
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\BranchAndBound\TravellingSalesMan\bin\Debug\TravellingSalesMan.exe.config
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\BranchAndBound\TravellingSalesMan\bin\Debug\TravellingSalesMan.exe
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\BranchAndBound\TravellingSalesMan\bin\Debug\TravellingSalesMan.pdb
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\BranchAndBound\TravellingSalesMan\obj\Debug\TravellingSalesMan.csprojResolveAssemblyReference.cache
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\BranchAndBound\TravellingSalesMan\obj\Debug\TravellingSalesMan.Travelling_Sales_Man.resources
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\BranchAndBound\TravellingSalesMan\obj\Debug\TravellingSalesMan.Properties.Resources.resources
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\BranchAndBound\TravellingSalesMan\obj\Debug\TravellingSalesMan.csproj.GenerateResource.Cache
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\BranchAndBound\TravellingSalesMan\obj\Debug\TravellingSalesMan.csproj.CoreCompileInputs.cache
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\BranchAndBound\TravellingSalesMan\obj\Debug\TravellingSalesMan.exe
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\BranchAndBound\TravellingSalesMan\obj\Debug\TravellingSalesMan.pdb
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\Travelling Salesman Problem\TravellingSalesMan\bin\Debug\TravellingSalesMan.exe.config
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\Travelling Salesman Problem\TravellingSalesMan\bin\Debug\TravellingSalesMan.exe
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\Travelling Salesman Problem\TravellingSalesMan\bin\Debug\TravellingSalesMan.pdb
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\Travelling Salesman Problem\TravellingSalesMan\obj\Debug\TravellingSalesMan.csprojResolveAssemblyReference.cache
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\Travelling Salesman Problem\TravellingSalesMan\obj\Debug\TravellingSalesMan.Travelling_Sales_Man.resources
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\Travelling Salesman Problem\TravellingSalesMan\obj\Debug\TravellingSalesMan.Properties.Resources.resources
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\Travelling Salesman Problem\TravellingSalesMan\obj\Debug\TravellingSalesMan.csproj.GenerateResource.Cache
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\Travelling Salesman Problem\TravellingSalesMan\obj\Debug\TravellingSalesMan.csproj.CoreCompileInputs.cache
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\Travelling Salesman Problem\TravellingSalesMan\obj\Debug\TravellingSalesMan.exe
+F:\Subject Materials\AI\Proj\Branch And Bound-Final\Branch And Bound-TSP solution\Travelling Salesman Problem\TravellingSalesMan\obj\Debug\TravellingSalesMan.pdb

@@ -1,0 +1,10 @@
+D:\TSP\BranchAndBound\TravellingSalesMan\bin\Release\TravellingSalesMan.exe.config
+D:\TSP\BranchAndBound\TravellingSalesMan\bin\Release\TravellingSalesMan.exe
+D:\TSP\BranchAndBound\TravellingSalesMan\bin\Release\TravellingSalesMan.pdb
+D:\TSP\BranchAndBound\TravellingSalesMan\obj\Release\TravellingSalesMan.Travelling_Sales_Man.resources
+D:\TSP\BranchAndBound\TravellingSalesMan\obj\Release\TravellingSalesMan.Properties.Resources.resources
+D:\TSP\BranchAndBound\TravellingSalesMan\obj\Release\TravellingSalesMan.csproj.GenerateResource.Cache
+D:\TSP\BranchAndBound\TravellingSalesMan\obj\Release\TravellingSalesMan.csproj.CoreCompileInputs.cache
+D:\TSP\BranchAndBound\TravellingSalesMan\obj\Release\TravellingSalesMan.exe
+D:\TSP\BranchAndBound\TravellingSalesMan\obj\Release\TravellingSalesMan.pdb
+D:\TSP\BranchAndBound\TravellingSalesMan\obj\Release\TravellingSalesMan.csprojResolveAssemblyReference.cache
